@@ -1,0 +1,10 @@
+variable "vm_name" {}
+variable "rg_name" {}
+variable "location" {}
+variable "as_id" {}
+variable "vnet_name" {}
+variable "subnet_name" {}
+variable "nsg_id" {}
+variable "admin_username" {}
+variable "admin_password" {}
+variable "subnet_id" {}

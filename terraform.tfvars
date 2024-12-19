@@ -1,0 +1,10 @@
+rg_name = "myResourceGroup"
+location = "East US"
+vnet_name = "myVnet"
+address_space = ["10.0.0.0/16"]
+as_name = "myAvailabilitySet"
+nsg_name = "myNSG"
+vm_name = "myVM"
+subnet_name = "mySubnet"
+admin_username = "adminuser"
+admin_password = "P@ssw0rd1234"
